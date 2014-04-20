@@ -1,11 +1,11 @@
 Summary:	Emotion generic players
 Name:		emotion_generic_players
-Version:	1.8.1
+Version:	1.9.0
 Release:	1
 License:	BSD
 Group:		Graphical desktop/Enlightenment
 Url:		http://www.enlightenment.org/
-Source0:	http://download.enlightenment.org/rel/libs/%{name}/%{name}-%{version}.tar.bz2
+Source0:	http://download.enlightenment.org/rel/libs/%{name}/%{name}-%{version}.tar.gz
 BuildRequires:	pkgconfig(ecore)
 BuildRequires:	pkgconfig(eina)
 BuildRequires:	pkgconfig(emotion)
