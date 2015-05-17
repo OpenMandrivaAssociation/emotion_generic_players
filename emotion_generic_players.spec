@@ -1,6 +1,6 @@
 Summary:	Emotion generic players
 Name:		emotion_generic_players
-Version:	1.13.0
+Version:	1.14.0
 Release:	0.1
 License:	BSD
 Group:		Graphical desktop/Enlightenment

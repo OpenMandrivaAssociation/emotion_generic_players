@@ -1,5 +1,6 @@
 removed_sources:
+  emotion_generic_players-1.13.0.tar.xz: 9b7f62ed80adcee4f3362ab083a36c69d6613ac0
   emotion_generic_players-1.8.1.tar.bz2: 7e06774d7e97b693d76f5a496e04e2a9690157f9
   emotion_generic_players-1.9.0.tar.gz: c5adf821ca8084b9fd40fb786f206882dab3f41f
 sources:
-  emotion_generic_players-1.13.0.tar.xz: 9b7f62ed80adcee4f3362ab083a36c69d6613ac0
+  emotion_generic_players-1.14.0.tar.xz: d2c0ec9399754f825abf018b2dd8fcad1bab421d
