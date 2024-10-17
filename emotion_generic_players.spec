@@ -4,7 +4,7 @@ Version:	1.14.0
 Release:	1
 License:	BSD
 Group:		Graphical desktop/Enlightenment
-Url:		http://www.enlightenment.org/
+Url:		https://www.enlightenment.org/
 Source0:	http://download.enlightenment.org/rel/libs/%{name}/%{name}-%{version}.tar.xz
 BuildRequires:	pkgconfig(ecore)
 BuildRequires:	pkgconfig(eina)
